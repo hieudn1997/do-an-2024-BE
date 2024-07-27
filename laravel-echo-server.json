@@ -1,5 +1,5 @@
 {
-    "authHost": "http://tichcop.koreacentral.cloudapp.azure.com",
+    "authHost": "/",
     "authEndpoint": "/broadcasting/auth",
     "clients": [
         {
